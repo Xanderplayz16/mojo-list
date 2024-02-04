@@ -1,6 +1,6 @@
 
-from rc import RcPointer
-from maybe import Maybe
+from .rc import RcPointer
+from .maybe import Maybe
 
 # TASKS:
 # [x] - Figure out why insert and friends are getting ub
