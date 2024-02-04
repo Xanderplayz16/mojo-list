@@ -1,6 +1,6 @@
 
 from memory.unsafe import Pointer
-from maybe import Maybe
+from .maybe import Maybe
 
 # not sure why I had to use 2 pointers
 # but Mojo did not let me have nested generics
